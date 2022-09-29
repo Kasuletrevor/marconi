@@ -1,0 +1,44 @@
+* {
+    
+    font-family: sans-serif;
+    background-color: rgb(17, 45, 54);
+    color: white;
+}
+
+.content {
+    margin: 0 auto;
+    width: 400px;
+}
+
+table, td, th {
+    border: 1px solid rgb(209, 201, 201);
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    height: 30px;
+}
+
+td {
+    text-align: center;
+    padding: 3px;
+}
+
+.form {
+    margin-top: 20px;
+    padding-left: 40px;
+    padding-right: 5px;
+    /* border:1px solid white; */
+}
+
+#content {
+    width: 70%;
+}
+a:hover{
+    text-decoration: underline;
+    color: brown;
+}
